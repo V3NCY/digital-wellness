@@ -2,7 +2,7 @@
 import React from 'react';
 import { useHistory } from 'react';
 
-function Activity() {
+function Settings() {
     const history = useHistory();
 
     const redirectToHomePage = () => {
@@ -11,10 +11,10 @@ function Activity() {
 
     return (
         <div>
-            <h1>Activity Page</h1>
+            <h1>Settings Page</h1>
             <button onClick={redirectToHomePage}>Go to Homepage</button>
         </div>
     );
 }
 
-export default Activity;
+export default Settings;

@@ -10,7 +10,7 @@ function BasicExample() {
             <Row className="justify-content-center">
                 <Col xs={12} sm={6} md={4} lg={3}>
                     <Card className="my-3" style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80" />
+                        <Card.Img variant="top" src="https://images.unsplash.com/photo-1621887348744-6b0444f8a058?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" />
                         <Card.Body>
                             <Card.Title>Wellness in a Digital World</Card.Title>
                             <Card.Text>
@@ -23,7 +23,7 @@ function BasicExample() {
                 </Col>
                 <Col xs={12} sm={6} md={4} lg={3}>
                     <Card className="my-3" style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80" />
+                        <Card.Img variant="top" src="https://images.unsplash.com/photo-1476733636740-24c58e0e7432?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" />
                         <Card.Body>
                             <Card.Title>Healthy Tech Habits</Card.Title>
                             <Card.Text>
@@ -43,13 +43,13 @@ function BasicExample() {
                                 Some quick example text to build on the card title and make up the
                                 bulk of the card's content.
                             </Card.Text>
-                            <Button variant="primary">Learn more</Button>
+                            <Button variant="primary" href='/activity'>Learn more</Button>
                         </Card.Body>
                     </Card>
                 </Col>
                 <Col xs={12} sm={6} md={4} lg={3}>
                     <Card className="my-3" style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80" />
+                        <Card.Img variant="top" src="https://images.unsplash.com/photo-1477013743164-ffc3a5e556da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" />
                         <Card.Body>
                             <Card.Title>Tech-Life Balance Tips</Card.Title>
                             <Card.Text>

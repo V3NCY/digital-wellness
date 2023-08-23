@@ -1,12 +1,12 @@
-import './App.css';
-import Navbar from './components/navbar';
-import Footer from './components/footer';
-import Carousel from './components/carousel';
-import Card from './components/card';
+import React from 'react';
+import Navbar from "./components/navbar";
+import Carousel from "./components/carousel";
+import Card from "./components/card";
+import Footer from "./components/footer";
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Navbar />
       <Carousel />
       <Card />
